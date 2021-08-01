@@ -10,4 +10,9 @@ echo "HAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHA"
 echo 
 echo "Switching to root"
 echo
-echo $(sudo -i)
+cat<<END
+This text does not 
+have meaning
+just as my life.
+END
+
